@@ -1,2 +1,2 @@
-# python-itertools
+# Python Itertools
 :computer: Python IterTools
